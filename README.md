@@ -42,7 +42,33 @@ Terkey Termux
 
 ```
 
+$pkg install git -y## Install
+
+```
+
 $pkg install git -y
+
+$pkg install python -y
+
+$git clone https://github.com/JereGanzz/terkey
+
+$cd terkey
+
+```
+
+# Run
+
+```
+
+$ls
+
+$python terkey.py
+
+```
+
+## Special Thanks to
+
+* <a href="https://github.com/JereGanzz"><img alt="GitHub" src="https://img.shields.io/badge/Jere/Ganzz%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
 $pkg install python -y
 
